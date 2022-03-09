@@ -1,0 +1,13 @@
+// Mid Term Assessment: React, Router & Axios
+// Assessment Duration: 1 Hour
+// Assessment Total: 100
+// DV200: Assessment A
+
+1. Conduct a fresh installation of React and remove all the unnecessary files so the DOM is blank
+2. Create 4 Components, 'Navigation' , 'ComponentOne' , 'ComponentTwo' & 'ComponentThree'
+3. Style the navigation appropriately and add some form of Navigation text for each component, add the required syntax for routing
+    3.1 Include a logo <h1></h1>
+    3.2 Remove the styling from the ul, li and a tags
+4. Install the 'react-router-dom' dependency and add Routing to your application
+5. Install the 'Axois' dependency and implement the following endpoint: https://api.spacexdata.com/v4/crew 
+6. Complete the Axios request by including the required code to create a Promise, ensure to catch any errors. 
